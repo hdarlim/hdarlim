@@ -1,7 +1,7 @@
 # hi 👋, i'm henrique darlim
 
 - 🌱 i'm currently learning **C and python**
-- 📝 i regularly write articles on **[substack](https://henriquedarlim.substack.com/)**
+- 📝 i write articles on **[substack](https://henriquedarlim.substack.com/)**
 - 📄 know about my experiences on my **[lattes cv](http://lattes.cnpq.br/6750764195504513)**
 
 ---
@@ -25,10 +25,11 @@
 ### languages and tools
 
 <div style="display: inline_block">
-  <img align="center" alt="C" height="40" width="40" src="https:https://www.linkedin.com/in//skillicons.dev/icons?i=c" />
-  <img align="center" alt="Python" height="40" width="40" src="https://skillicons.dev/icons?i=py" />
-  <img align="center" alt="HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html" />
-  <img align="center" alt="CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css" />
+  <img align="center" alt="C" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F1%2F18%2FC_Programming_Language.svg%2F570px-C_Programming_Language.svg.png%3F20201031132917&f=1&nofb=1&ipt=34859d7fea00300635c0ced3d1332aa911a1986032eeeeed18e153476cf41c72" />
+  
+  <img align="center" alt="python" height="40" width="40" src="https://skillicons.dev/icons?i=py" />
+  <img align="center" alt="html" height="40" width="40" src="https://skillicons.dev/icons?i=html" />
+  <img align="center" alt="css" height="40" width="40" src="https://skillicons.dev/icons?i=css" />
 </div>
 
 <br><br>
@@ -37,8 +38,7 @@
 
 <div align="center">
   <a href="https://github.com/hdarlim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hdarlim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdarlim&layout=compact&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdarlim&theme=tokyonight" alt="github streak" />
   </a>
 </div>
 
