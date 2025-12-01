@@ -32,14 +32,4 @@
   <img align="center" alt="css" height="40" width="40" src="https://skillicons.dev/icons?i=css" />
 </div>
 
-<br><br>
-
-### github stats
-
-<div align="center">
-  <a href="https://github.com/hdarlim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdarlim&theme=tokyonight" alt="github streak" />
-  </a>
-</div>
-
 </div>
